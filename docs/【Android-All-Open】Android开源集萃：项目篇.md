@@ -4,20 +4,13 @@
 # Introduction
 #####  “**【Android-All-Open】Android开源集萃：项目篇**”
 * 致力于收集完整优质/优秀/优美的Android开源项目
-<<<<<<< HEAD
-* 欢迎您的加入!   [Fork]（https://github.com/skyseraph/Android-All-Open） or [Email](skyseraph00@163.com) to Me, tks!
+* 欢迎您的加入!   [Fork](https://github.com/skyseraph/Android-All-Open) or [Email](skyseraph00@163.com) to Me, tks!
 
-=======
-* 欢迎您的加入!   Fork or [Email](skyseraph00@163.com) to Me, tks!
->>>>>>> 9869282377db7cf3adc7746958cabf9093143c72
 
 ##### Contribute
 [SkySeraph](http://skyseraph.com/) ...
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 9869282377db7cf3adc7746958cabf9093143c72
 ##### History
 * 2015.11.29 First Create
 
@@ -39,10 +32,6 @@ MD风格的36氪Android阅读客户端
 
 * [cnblogs](https://github.com/avenwu/cnblogs) **博客园客户端**
 博客园客户端（作者有保留，未完全开源）
-<<<<<<< HEAD
-=======
-![](https://camo.githubusercontent.com/cd6edadb73d38d823ad36580a533a54f27c82eae/687474703a2f2f3775326a69722e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f76332e302e302f73637265656e73686f742d76332e302e302d312e706e67 "")
->>>>>>> 9869282377db7cf3adc7746958cabf9093143c72
 
 * [FanfouDaily](https://github.com/Anthonyeef/FanfouDaily)**饭否精选**
 ![](https://raw.githubusercontent.com/Anthonyeef/FanfouDaily/master/screenshots/Screenshot_1.jpg "")
